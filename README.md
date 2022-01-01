@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan Moon</h1>
+
 <p align="center"> <a href="https://twitter.com/itsmhmoon" target="blank"><img src="https://img.shields.io/twitter/follow/itsmhmoon?logo=twitter&style=for-the-badge" alt="itsmhmoon" /></a> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/itsmhmoon/" target="blank"><img src="https://img.shields.io/linkedin/connect/itsmhmoon?logo=linkedin&style=for-the-badge" alt="itsmhmoon" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/itsmhmoon/" target="blank"><img src="https://img.shields.io/linkedin/connect/itsmhmoon?label=Connect&logo=linkedin&style=social" alt="itsmhmoon" /></a> </p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
