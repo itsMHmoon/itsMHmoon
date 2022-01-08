@@ -16,7 +16,7 @@
 
 <p align="center"> 
   <img src=https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&bg_color=22272d>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&langs_count=10>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&langs_count=10&layout=compact>
 </p>
 
 <p align="center"> 
