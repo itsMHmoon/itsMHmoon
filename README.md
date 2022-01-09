@@ -16,12 +16,11 @@
 
 <h3 align="center">Statistics And Languages</h3>
 
-<p align="center"> 
-  <img src=https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d>
+<p align = "center">
+  <img src="https://komarev.com/ghpvc/?username=itsmhmoon">
 </p>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itsMHmoon/count.svg" />
+    <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" height="270" width="370"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" height="270" width="370"/>
 </p>
