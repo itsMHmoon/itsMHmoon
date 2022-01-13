@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="icons/wave.gif" height="35" width="35">, I'm Moon</h1>
+<h1 align="center">Hey there <img src="images/wave.gif" height="35" width="35">, I'm Moon</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin" alt="itsmhmoon" />
