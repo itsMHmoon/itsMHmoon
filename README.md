@@ -1,26 +1,55 @@
-<h1 align="center">Hey there 👋, I'm Mahmudul Hasan Moon</h1>
+<h1 align="center">Hey there <img src="icons/wave.gif" height="35" width="35">, I'm Moon</h1>
 
-<p align="center"> <a href="https://twitter.com/itsmhmoon" target="blank"><img src="https://img.shields.io/twitter/follow/itsmhmoon?logo=twitter&style=for-the-badge" alt="itsmhmoon" /></a> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/itsmhmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmhmoon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsmhmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmhmoon" height="30" width="40" /></a>
-<a href="https://fb.com/itsmhmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmhmoon" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmhmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmhmoon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itsmhmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmhmoon" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin" alt="itsmhmoon" />
+  <a href="https://twitter.com/itsmhmoon" target="blank"><img src="https://img.shields.io/twitter/follow/itsmhmoon?label=FOLLOW&logo=twitter&style=flat-square&color=007fc6" alt="itsmhmoon" />
+  <a href="https://www.reddit.com/user/itsmhmoon" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/itsmhmoon?color=brightgreen&label=KARMA&logo=reddit&style=flat-square" alt="itsmhmoon" />
+  <a href="https://www.behance.net/itsmhmoon" target="blank"><img src="https://img.shields.io/badge/SHOWCASE-0054F7?style=flat-square&logo=behance&logoColor=white" alt="itsmhmoon" />
+  <a href="https://api.whatsapp.com/send/?phone=8801521107138" target="blank"><img src="https://img.shields.io/badge/CONTACT-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="itsmhmoon" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="center">I'm a Cross-Platform Application Developer, Web Developer, Graphic Designer and Gamer.</h3>
 
-<h3 align="center">Statistics</h3>
+<br>
 
+<img align="right" src="images/Coding.gif" width="312" height="220" alt="GIF"/>
+
+- 🎯 I love to learn new things.
+- 🌱 I’m currently learning Flutter.
+- ✅ I have successfully worked on several mobile app projects.
+- 🔭 I’m looking to collaborate on opensource projects.
+- 🎓 I'm a CSE undergrad at [Daffodil International University](https://daffodilvarsity.edu.bd/).
+- 🕹 My favorite activities are Video Games, Anime, Travelling and Web search.
+- 📸 Photography is my another hobby, check some here: <a href="https://www.flickr.com/photos/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/FLICKR-0062d8?style=flat&logo=flickr&logoColor=ff0084" alt="itsmhmoon" /> </a>
+
+<hr />
+
+<h4 align="center"> Languages </h4>
+<p align="center">
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="38" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+</p>
+
+<h4 align="center"> Tools </h4>
+<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="35" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+</p>
+
+<h4 align="center"> Familiar </h4>
+<p align="center">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="arduino" width="38" height="38"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
+
+<hr/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmhmoon&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=22272D&stroke=000000&ring=F43D62&currStreakNum=DFFF00&fire=DD2727&sideNums=40E0D0&currStreakLabel=DD2727&sideLabels=40E0D0D9&dates=FF7F50&border=FFFFFF" alt="itsmhmoon" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" width="400" align="center"/>
+</p>
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=itsmhmoon">
-</p>
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" height="270" width="370"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" height="270" width="370"/>
 </p>
