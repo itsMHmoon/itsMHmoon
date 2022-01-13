@@ -42,16 +42,16 @@
 
 <hr/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmhmoon&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=22272D&stroke=000000&ring=F43D62&currStreakNum=DFFF00&fire=DD2727&sideNums=40E0D0&currStreakLabel=DD2727&sideLabels=40E0D0D9&dates=FF7F50&border=FFFFFF" alt="itsmhmoon" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmhmoon&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=22272D&stroke=000000&ring=F43D62&currStreakNum=DFFF00&fire=DD2727&sideNums=40E0D0&currStreakLabel=DD2727&sideLabels=40E0D0D9&dates=FF7F50&border=FFFFFF" alt="itsmhmoon" width="420"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" width="500" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420" align="center"/>
 </p>
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=itsmhmoon">
 </p>
 
-<img align="right" src="images/Coding.gif" alt="GIF"/>
+<img align="center" src="images/loading.gif" alt="GIF"/>
