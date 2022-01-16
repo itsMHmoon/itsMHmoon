@@ -1,5 +1,7 @@
 <h1 align="center">Hey there <img src="images/wave.gif" height="35" width="35">, I'm Moon</h1>
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin" alt="itsmhmoon" />
   <a href="https://twitter.com/itsmhmoon" target="blank"><img src="https://img.shields.io/twitter/follow/itsmhmoon?label=FOLLOW&logo=twitter&style=flat-square&color=007fc6" alt="itsmhmoon" />
@@ -50,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420" align="center"/>
 </p>
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=itsmhmoon">
