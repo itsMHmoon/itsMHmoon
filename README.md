@@ -16,11 +16,11 @@
 <img align="right" src="images/Coding.gif" width="312" height="220" alt="GIF"/>
 
 - 🎯 I love to learn new things.
-- 🌱 I’m currently learning Flutter.
-- ✅ I have successfully worked on several mobile app projects.
-- 🔭 I’m looking to collaborate on opensource projects.
-- 🎓 I'm a CSE undergrad at [Daffodil International University](https://daffodilvarsity.edu.bd/).
-- 🕹 My favorite activities are Video Games, Anime, Travelling and Web search.
+- 🌱 Currently learning Flutter.
+- ✅ Successfully worked on several mobile app projects.
+- 🔭 Looking to collaborate on opensource projects.
+- 🎓 CSE undergrad at [Daffodil International University](https://daffodilvarsity.edu.bd/).
+- 🕹 Favorite activities are Video Games, Anime, Travelling and Web search.
 - 📸 Photography is my another hobby, check some here: <a href="https://www.flickr.com/photos/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/FLICKR-0062d8?style=flat&logo=flickr&logoColor=ff0084" alt="itsmhmoon" /> </a>
 
 <hr />
