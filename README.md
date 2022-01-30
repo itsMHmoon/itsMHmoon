@@ -17,7 +17,7 @@
 
 - 🎯 I love to learn new things.
 - 🌱 Currently learning Flutter.
-- ✅ Successfully worked on several mobile app projects.
+- ✅ Successfully worked on several cross-platform mobile app projects.
 - 🔭 Looking to collaborate on opensource projects.
 - 🎓 CSE undergrad at [Daffodil International University](https://daffodilvarsity.edu.bd/).
 - 🕹 Favorite activities are Video Games, Anime, Travelling and Web search.
