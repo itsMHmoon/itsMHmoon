@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">I'm a Cross-Platform Application Developer and Gamer.</h3>
+<h3 align="center">Cross-Platform Application Developer and Gamer.</h3>
 
 <br>
 
